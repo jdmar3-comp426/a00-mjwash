@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a00-mjwash/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a00-mjwash#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a00-mjwash#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
